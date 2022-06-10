@@ -10,6 +10,7 @@ public class Spring1Application {
 		//SpringApplication.run(Spring1Application.class, args);
 		
 		System.out.println("spring 1 execution");
+		System.out.println("New code line");
 	}
 
 }
