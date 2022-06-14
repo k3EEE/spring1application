@@ -12,6 +12,9 @@ public class Testclass {
 		System.out.println("locally added");
 		
 		System.out.println("Rebase Line 1");
+		
+		System.out.println("Rebase Line 2");
+		
 
 	}
 }
