@@ -10,6 +10,8 @@ public class Testclass {
 		System.out.println("remote github line 2");
 
 		System.out.println("locally added");
+		
+		System.out.println("Rebase Line 1");
 
 	}
 }
